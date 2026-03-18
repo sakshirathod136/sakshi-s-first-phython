@@ -77,3 +77,78 @@ https://www.programiz.com/online-compiler/9Rcv2OvTKCMJM for list
 https://www.programiz.com/online-compiler/1J8PtTIlC7G2Y for tuple
 https://www.programiz.com/online-compiler/85rolhyk0VU24 for dictionary
 https://www.programiz.com/online-compiler/0lK40P4LUXHzu for set
+ Second assignment 
+# Program to add two numbers
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+sum = a + b
+
+print("Sum is:", sum)
+1)  a = 5
+    b = 5
+
+    c = a + b
+
+    print(c)
+
+output:
+10
+2)  a = 13
+    b = 9.8
+    c = "Hello"
+    d = True
+    e = [1, 3, 7]
+    f = (1, 3, 7)
+    g = {"Name": "Sakshi", "Age": 20}
+
+    print(type(a))
+    print(type(b))
+    print(type(c))
+    print(type(d))
+3)  a = 13
+    b = 3.14
+
+    c = int(b)
+    d = float(a)
+    e = str(a)
+    f = bool(a)
+
+    print(type(c))
+    print(type(d))
+    print(type(e))
+    print(type(f))
+
+output:
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+
+    print(type(e))
+    print(type(f))
+    print(type(g))
+
+output:
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+<class 'list'>
+<class 'tuple'>
+<class 'dict'>
+4)  a = 5
+    b = 12
+    c = 10
+
+    print(a > b and a == c)
+    print(a < b or a != c)
+    print(not(a == b))
+
+output:
+False
+True
+True
+
+
