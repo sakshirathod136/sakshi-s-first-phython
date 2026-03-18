@@ -45,7 +45,31 @@ print()
 # Set
 set_value = {1, 2, 3, 4, 4, 5}
 print("Set value:", set_value)
-print("Type:", type(set_value))https://www.programiz.com/online-compiler/10m16vJMIU8GV for integer
+print("Type:",type(set_value))
+Integer value: 10
+Type: <class 'int'>
+
+Float value: 10.5
+Type: <class 'float'>
+
+String value: Hello Python
+Type: <class 'str'>
+
+Boolean value: True
+Type: <class 'bool'>
+
+List value: [1, 2, 3, 'Python', 5.5]
+Type: <class 'list'>
+
+Tuple value: (1, 2, 3, 'Data')
+Type: <class 'tuple'>
+
+Dictionary value: {'Name': 'Sakshi', 'Age': 18, 'Course': 'Data Science'}
+Type: <class 'dict'>
+
+Set value: {1, 2, 3, 4, 5}
+Type: <class 'set'>
+ https://www.programiz.com/online-compiler/10m16vJMIU8GV for integer
 https://www.programiz.com/online-compiler/4Z2CEe8LwcSqp for float
 https://www.programiz.com/online-compiler/0xlVOAn7Trn90 for string
 https://www.programiz.com/online-compiler/88MOLjBdqDThE for boolean
