@@ -1,4 +1,4 @@
-<script src="https://gist.github.com/sakshirathod136/ef13c7d69644dbf30aa8626cbce99406.js"></script># Demonstration of different Python Data Types
+# Demonstration of different Python Data Types
 
 # Integer
 integer_value = 10
