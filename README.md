@@ -151,4 +151,85 @@ False
 True
 True
 
+#3rd assignment 
+
+
+# Program to find greatest of 3 numbers
+example 1
+
+a = 10
+b = 25
+c = 18
+
+print("Value of a:", a)
+print("Value of b:", b)
+print("Value of c:", c)
+
+if a > b and a > c:
+    print("Greatest number is:", a)
+elif b > a and b > c:
+    print("Greatest number is:", b)
+else:
+    print("Greatest number is:", c)
+output 
+
+Value of a: 10
+Value of b: 25
+Value of c: 18
+Greatest number is: 25
+
+example 2
+
+# Program to check whether a number is odd or even
+
+num = 19
+
+print("Given number:", num)
+
+if num % 2 == 0:
+    print("The number is Even")
+else:
+    print("The number is Odd")
+output 
+Given number: 19
+The number is Odd
+
+example 3
+
+# Program to check whether a character is uppercase or lowercase
+
+ch = 'V'
+
+print("Given character:", ch)
+
+if ch >= 'A' and ch <= 'Z':
+    print("The character is Uppercase")
+elif ch >= 'a' and ch <= 'z':
+    print("The character is Lowercase")
+else:
+    print("It is not an alphabet")
+
+output 
+Given character: V
+The character is Uppercase
+
+example 4
+
+# Program to check whether input is number or character
+
+x = '8'
+
+print("Given input:", x)
+
+if x.isdigit():
+    print("It is a Number")
+else:
+    print("It is a Character")
+
+output 
+
+Given input: 8
+It is a Number
+
+
 
